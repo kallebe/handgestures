@@ -1,0 +1,2 @@
+HandGestureRecognition.m é a função que cria toda a CNN e reconhece em qual grupo a imagem de entrada pertence;
+Main.m utiliza a função acima e retorna a matriz de confusão da CNN e o grupo a qual a imagem pertence.
