@@ -1,5 +1,5 @@
-%Abre a imagem;
-Imagem = imread('img_teste\o.jpg');
+%Abre a imagem de teste;
+Imagem = imread('img_teste\o2.jpg');
 
 %Extrai as características da imagem;
 DataStore = augmentedImageDatastore(TamImagem, Imagem, ... 

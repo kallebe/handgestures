@@ -1,4 +1,4 @@
-Clara Resende Maia - 18/0030931
+﻿Clara Resende Maia - 18/0030931
 Emanuel Silva de Medeiros - 17/0009360
 Kallebe de Sousa Silva - 18/0053485
 
@@ -7,4 +7,4 @@ Projeto Final de Identificação de Gestos Manuais realizado em MatLab, sistema 
 Em anexo seguem dois arquivos texto:
 IdentificacaoGestosManuais.m - Esse arquivo carrega e configura a rede neural convolucional ResNet-50;
 Main.m - Uma vez carregada e configurada a RNC utilize esse arquivo para classificar as imagens que também
-seguem em anexo. 
+seguem em anexo (diretório img_teste). 
